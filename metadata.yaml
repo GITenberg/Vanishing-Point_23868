@@ -1,0 +1,34 @@
+_repo: Vanishing-Point_23868
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Martinez
+    gutenberg_agent_id: '26040'
+    url: http://www.gutenberg.org/2009/agents/26040
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beck, C. C. (Charles Clarence)
+    alias: Beck, Charles Clarence
+    birthdate: 1910
+    deathdate: 1989
+    gutenberg_agent_id: '26097'
+    url: http://www.gutenberg.org/2009/agents/26097
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Vanishing Point
+url: http://www.gutenberg.org/ebooks/23868
